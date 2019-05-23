@@ -4,6 +4,7 @@ class MyClass(){
 	  System.out.println("Business Logic");
 	}
 	main(){
+ 	myMethod();
 	  System.out.println("Hello Git!!");
 	}
 
