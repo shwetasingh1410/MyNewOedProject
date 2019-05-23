@@ -1,7 +1,10 @@
 class MyClass(){
-	main(){
 
-	System.out.println("Hello Git!!");
+	void myMethod(){
+	  System.out.println("Business Logic");
+	}
+	main(){
+	  System.out.println("Hello Git!!");
 	}
 
 }
