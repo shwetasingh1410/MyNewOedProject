@@ -1,0 +1,7 @@
+class MyClass(){
+	main(){
+
+	System.out.println("Hello Git!!");
+	}
+
+}
