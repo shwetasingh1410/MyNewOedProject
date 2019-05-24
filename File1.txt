@@ -2,9 +2,11 @@ class MyClass(){
 
 	static void myMethod(){
 	  System.out.println("Business Logic");
+	  System.out.println("Show some logic!!");
 	}
 	public static void main(String arg[]){
- 	myMethod();
+ 	MyClass obj1 =  new MyClass();
+ 	obj1.myMethod();
 	  System.out.println("Hello Git!!");
 	  System.out.println("Hello Again!!");
 	}
