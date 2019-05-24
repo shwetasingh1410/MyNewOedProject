@@ -1,12 +1,11 @@
 class MyClass(){
 
 	static void myMethod(){
-	  System.out.println("Business Logic");
-	  System.out.println("Show some logic!!");
+	  System.out.println("Added another business logic!!");
 	}
 	public static void main(String arg[]){
- 	MyClass obj1 =  new MyClass();
- 	obj1.myMethod();
+	MyClass obj =  new MyClass();
+ 	obj.myMethod();  // Bug456 fixed
 	  System.out.println("Hello Git!!");
 	  System.out.println("Hello Again!!");
 	}
