@@ -12,7 +12,6 @@ class MyClass(){
 	System.out.println("Hello Again!!");
 	}
 	displayMethod(){
-		System.out.println("Added display!!");
 	}
 
 }
