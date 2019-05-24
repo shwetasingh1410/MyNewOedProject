@@ -6,8 +6,8 @@ class MyClass(){
 	  
 	}
 	public static void main(String arg[]){
-	MyClass obj =  new MyClass();
- 	obj.myMethod();  		// Added the method
+	MyClass obj1 =  new MyClass();
+ 	obj1.myMethod();  		// Added the method
 	  System.out.println("Hello Git!!");
 	  System.out.println("Hello Again!!");
 	}
