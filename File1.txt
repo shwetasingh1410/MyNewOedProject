@@ -6,6 +6,7 @@ class MyClass(){
 	public static void main(String arg[]){
  	myMethod();
 	  System.out.println("Hello Git!!");
+	  System.out.println("Hello Again!!");
 	}
 
 }
